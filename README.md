@@ -1,8 +1,14 @@
 # CODSOFT
-Hello! This is my portfolio for my Data Science Internship! Here, you'll see the projects I did while I was interning at Codsoft. Each project shows how good I am at analyzing data, using machine learning, and solving problems. This repository is an Internship that contains impressive projects related to Data Science and Machine Learning.
+This is my portfolio for my Data Science Internship! Here, you'll see the projects I did while I was interning at Codsoft. Each project shows how good I am at analyzing data, using machine learning, and solving problems. This repository is an Internship that contains impressive projects related to Data Science and Machine Learning.
 
-## These repo contains these three tasks with folders of each:
+# PROJECTS Compplted in this repo
 
-### Task 1: Sales Prediction
-### Task 2: Movie Rating Prediction
-### Task 3: Credit Card Fraud Detection
+1. Movie Rating Prediction with Python
+Description: In this project, I built a movie rating prediction system using Python. The project includes data collection, preprocessing, and the development of a machine learning model to predict movie ratings.
+
+2. Sales Prediction using Python
+Description: This project focuses on predicting sales for a business. It includes data preprocessing, exploratory data analysis, and the development of a predictive model to forecast future sales.
+
+4. Credit Card Fraud Detection
+Description: In the Credit Card Fraud Detection project, I developed a machine learning model to identify fraudulent credit card transactions. The project addresses class imbalance, preprocesses data, and uses logistic regression for classification.
+
