@@ -1,7 +1,7 @@
 # CODSOFT
 This is my portfolio for my Data Science Internship! Here, you'll see the projects I did while I was interning at Codsoft. Each project shows how good I am at analyzing data, using machine learning, and solving problems. This repository is an Internship that contains impressive projects related to Data Science and Machine Learning.
 
-# PROJECTS Compplted in this repo
+# PROJECTS Completed in this repo
 
 1. Movie Rating Prediction with Python
 Description: In this project, I built a movie rating prediction system using Python. The project includes data collection, preprocessing, and the development of a machine learning model to predict movie ratings.
